@@ -202,9 +202,6 @@ If you use this project in your research or work:
 }
 ```
 
-## Support
-- **Issues**: [GitHub Issues](https://github.com/yourusername/document-ai-assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/document-ai-assistant/discussions)
 
 ## Acknowledgments
 - Hugging Face for transformer models
