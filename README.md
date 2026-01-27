@@ -1,4 +1,4 @@
-# Document AI 
+# Document AI Assistant
 
 ## Overview
 Document AI Assistant is a Python-based system that enables natural language question-answering on text and PDF documents. Built using transformer models, this tool allows users to query documents in plain English and receive instant, context-aware answers without manual reading or searching.
